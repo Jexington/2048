@@ -1,0 +1,34 @@
+body{
+  background-image: linear-gradient(to right, #314874, #266B66, #3B8F32);
+}
+p{
+  color: antiquewhite;
+  font-size: 20px;
+}
+h1, h2{
+  text-align: center;
+  color: white;
+}
+#score{
+  text-align: center;
+}
+.clear{
+  clear: both;
+}
+#size-bloc{
+  margin-left: -50px;
+  padding-left: 50%;
+}
+#size-title{
+  float: left;
+  margin-top: 0px;
+}
+#size{
+  width: 50px;
+  margin-left: 10px;
+  border-radius: 3px;
+}
+#canvas-bloc{
+  margin-left: -700px;
+  padding-left: 50%;
+}
